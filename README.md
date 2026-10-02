@@ -79,6 +79,6 @@ From the fall of the Tang to the battle of Yashan: 280 poets of the Five Dynasti
 
 ## 使用 · Use
 
-个人作品，仅供非商业用途。转载请注明出处。数据版权归原网站所有。
+个人作品，以 [CC BY-NC 4.0](LICENSE) 授权：可非商业转载和改编，须注明出处。数据版权归原网站所有。
 
-Personal, non-commercial work. Please credit when sharing. Data rights remain with the original site.
+Personal work licensed [CC BY-NC 4.0](LICENSE): share and adapt for non-commercial use with credit. Data rights remain with the original site.
